@@ -10,5 +10,6 @@ public class Test {
         hashMap.put("K2",0.2);
         hashMap.put("K3",0.3);
         hashMap.put("K4",0.4);
+        hashMap.put("K4",0.4);
     }
 }
